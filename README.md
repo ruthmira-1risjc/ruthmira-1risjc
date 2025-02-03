@@ -1,7 +1,7 @@
 # Olá, eu sou a Ruth Mira 👋
 
 Bem-vindo ao meu perfil!  
-Sou desenvolvedora com uma paixão por aprender e construir soluções criativas. Aqui, você pode encontrar meus projetos e contribuições no mundo da tecnologia, focando principalmente em **Desenvolvimento Web**, **Automação** e **Python**.
+Sou desenvolvedora com uma paixão por aprender e construir soluções criativas. Aqui, você pode encontrar meus projetos e contribuições no mundo da tecnologia, focando principalmente em **Desenvolvimento Web**, **Automação**.
 
 ---
 
@@ -11,7 +11,6 @@ Aqui estão alguns dos meus projetos mais recentes e interessantes:
 
 - [**1risjc - Repositório Pessoal**](https://github.com/ruthmira-1risjc/1risjc): Um repositório com exemplos e estudos de projetos que estou trabalhando atualmente.
 - [**Automatizando com Python**](https://github.com/ruthmira-1risjc/python-automation): Projetos de automação de tarefas do dia a dia, utilizando Python.
-- [**Portfolio**](https://github.com/ruthmira-1risjc/portfolio): Meu portfólio com os principais projetos que desenvolvi ao longo da minha jornada como desenvolvedora.
 
 ---
 
