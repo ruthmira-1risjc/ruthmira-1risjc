@@ -27,9 +27,12 @@ Aqui estão alguns dos meus projetos mais recentes e interessantes:
 
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
+[![Java](https://img.shields.io/badge/Java-red?style=flat&logo=openjdk)](https://www.java.com/)
+[![C#](https://img.shields.io/badge/C%23-purple?style=flat&logo=csharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)](https://nodejs.org/)
+[![Spring](https://img.shields.io/badge/Spring-brightgreen?style=flat&logo=spring)](https://spring.io/)
 ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
+
 
 ---
 
