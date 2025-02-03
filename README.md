@@ -48,7 +48,7 @@ Atualmente, estou focada em aprender mais sobre:
 
 ## 📫 Como me Encontrar
 
-- **E-mail**: ruthmira@example.com
+- **E-mail**: ruthsilvamira@gmail.com
 - **LinkedIn**: [Ruth Mira](https://www.linkedin.com/in/ruthmira)
 
 ---
