@@ -30,8 +30,9 @@ Aqui estão alguns dos meus projetos mais recentes e interessantes:
 [![Java](https://img.shields.io/badge/Java-red?style=flat&logo=openjdk)](https://www.java.com/)
 [![C#](https://img.shields.io/badge/C%23-purple?style=flat&logo=csharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)](https://nodejs.org/)
-[![Spring](https://img.shields.io/badge/Spring-brightgreen?style=flat&logo=spring)](https://spring.io/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen?style=flat&logo=springboot)](https://spring.io/projects/spring-boot)
 ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react)
+[![.NET](https://img.shields.io/badge/.NET-blueviolet?style=flat&logo=dotnet)](https://dotnet.microsoft.com/)
 
 
 ---
